@@ -103,7 +103,7 @@ pre code.hljs {
 			background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
 			@include media($tablet) {
-				padding: 9em 1em !important;
+				// padding: 9em 1em !important;
 			}
 		}
 	}
@@ -113,7 +113,7 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-	box-shadow: 0 2px $highlight-color;
+	// box-shadow: 0 2px $highlight-color;
 	padding: 0 1em;
 	margin: 0;
 	// Remove this to make header scrollable again
@@ -257,7 +257,7 @@ pre code.hljs {
 	.site-header-container {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.33);
-		background-color: $highlight-color;
+		//background-color: $highlight-color;
 		.site-header{
 			.title {
 				font-size: modular-scale(6);
@@ -374,7 +374,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: $highlight-color;
+	background-color: #333;
 	color: $white;
 	a {
 	  color: $link-color;
