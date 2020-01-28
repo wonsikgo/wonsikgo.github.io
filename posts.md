@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Posts"
-main_nav: true
+permalink: /posts/
+main_nav: false
 ---
 
 {% for category in site.categories %}
