@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Posts"
-permalink: /index.html
 main_nav: true
 ---
 
